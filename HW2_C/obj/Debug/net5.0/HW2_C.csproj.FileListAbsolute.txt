@@ -1,0 +1,16 @@
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.exe
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.deps.json
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.runtimeconfig.json
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.runtimeconfig.dev.json
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.dll
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\ref\HW2_C.dll
+C:\Users\Steam\source\repos\HW2_C\HW2_C\bin\Debug\net5.0\HW2_C.pdb
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.AssemblyInfoInputs.cache
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.AssemblyInfo.cs
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.dll
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\ref\HW2_C.dll
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.pdb
+C:\Users\Steam\source\repos\HW2_C\HW2_C\obj\Debug\net5.0\HW2_C.genruntimeconfig.cache
